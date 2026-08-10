@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Dương Minh Quân"
+  pronouns         : # "Him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Vietnam"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mquan159357@gmail.com" 
 
   # Academic websites
   academia         : # URL
